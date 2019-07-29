@@ -24,18 +24,16 @@ printf("source code"); // 소스코드 넣는 파트
 
 # 강조
 > *기울여쓰기입니다.*</br>
-** 굵게쓰기 입니당 **
-
+**굵게쓰기 입니당**
+***굵기랑 기울기랑 같이***
+___이렇게도 가능___
+~~취소선~~ 
 # 수평선 
 ___ 
 ***
 
 # 링크
-참조 링크 
-[내 깃헙][1]
-[네이버][2]
-[1]: http://github.com/dkpark10 “나의 깃헙”
-[2]: http://naver.com/ “네이버”
+[내깃헙](https://githun.com/dkpark10)
 
 # 리스트
 숫자쓰고 다음에 점찍으면 개판으로 눌러도 자동 숫자정렬
@@ -45,7 +43,7 @@ ___
 253235235. 리스트 
 
 # 테이블
-Title | Title
-___ | ___
-content1 | content2
-content3 | content 4
+Header 1 | Header 2
+--- | ---
+Content 1 | Content 3
+Content 2 | Content 4
