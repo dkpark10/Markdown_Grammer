@@ -24,16 +24,16 @@ printf("source code"); // 소스코드 넣는 파트
 
 # 강조
 > *기울여쓰기입니다.*</br>
-**굵게쓰기 입니당**
-***굵기랑 기울기랑 같이***
-___이렇게도 가능___
-~~취소선~~ 
+**굵게쓰기 입니당**</br>
+***굵기랑 기울기랑 같이***</br>
+___이렇게도 가능___</br>
+~~취소선~~ </br>
+
 # 수평선 
 ___ 
 ***
 
 # 링크
-> '[내깃헙](https://githun.com/dkpark10)'  <- 일케 쓰면 댐</br>
 [내깃헙](https://githun.com/dkpark10)
 
 # 리스트
@@ -49,11 +49,6 @@ ___
 253235235. 리스트 
 
 # 테이블
-> Header 1 | Header 2
---- | ---
-Content 1 | Content 3
-Content 2 | Content 4
-
 Header 1 | Header 2
 --- | ---
 Content 1 | Content 3
