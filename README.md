@@ -33,16 +33,27 @@ ___
 ***
 
 # 링크
+> '[내깃헙](https://githun.com/dkpark10)'  <- 일케 쓰면 댐</br>
 [내깃헙](https://githun.com/dkpark10)
 
 # 리스트
-숫자쓰고 다음에 점찍으면 개판으로 눌러도 자동 숫자정렬
+> 숫자쓰고 다음에 점찍으면 개판으로 눌러도 자동 숫자정렬 
+1. 리스트 
+5645. 리스트
+4. 리스트 
+253235235. 리스트 
+
 1. 리스트 
 5645. 리스트
 4. 리스트 
 253235235. 리스트 
 
 # 테이블
+> Header 1 | Header 2
+--- | ---
+Content 1 | Content 3
+Content 2 | Content 4
+
 Header 1 | Header 2
 --- | ---
 Content 1 | Content 3
