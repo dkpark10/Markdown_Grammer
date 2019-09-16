@@ -49,7 +49,7 @@ ___
 253235235. 리스트 
 
 # 테이블
-Header 1 | test | result
+Header 1 | Header 2 
 --- | ---
-Content 1 | Content 3 | rere
-Content 2 | Content 4 | sdsd
+Content 1 | Content 3 
+Content 2 | Content 4
